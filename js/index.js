@@ -29,6 +29,7 @@ console.log("");
 // Bài 2
 const customers = [
   { name: "Nguyễn Văn A", age: 11, address: "Ha Noi" },
+  { name: "Nguyễn Hoàng Nam Hải", age: 21, address: "Ha Noi" },
   { name: "Nguyễn Văn B", age: 2, address: "Hai Phong" },
   { name: "Nguyễn Văn C", age: 12, address: "TP.HCM" },
 ];
