@@ -25,6 +25,7 @@ function getError(field) {
 getError("email");
 document.write("<p>Bài 1: ở console</p>");
 console.log("");
+
 // Bài 2
 const customers = [
   { name: "Nguyễn Văn A", age: 11, address: "Ha Noi" },
@@ -51,6 +52,7 @@ const result = createCustomers(customers);
 console.log("Bài 2: ", result);
 document.write("<p>Bài 2: ở console</p>");
 console.log("");
+
 // bài 3:
 document.write("<p>Bài 3: ở console</p>");
 const data = [];
