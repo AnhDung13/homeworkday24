@@ -82,12 +82,12 @@ function handleLogin(email, password) {
   }
   return userData;
 }
-var dataRegister = handleRegister(
+const dataRegister0 = handleRegister(
   "Nguyen Van A",
   "123456",
   "nguyenvana@email.com"
 );
-var dataRegister = handleRegister(
+const dataRegister1 = handleRegister(
   "Nguyen Van B",
   "1234567",
   "nguyenvanb@email.com"
